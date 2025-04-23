@@ -1,0 +1,2 @@
+# PlayerConnect
+ PlayerConnect is a full-stack web application designed to simplify eSports tournament management. Players can register, create teams, join tournaments, and communicate via real-time chat. Built using React.js for the frontend, Flask for the backend, and MongoDB for the database, this platform streamlines coordination and enhances the experience for both players and organizers. Ideal for college-level and community gaming events.
